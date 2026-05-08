@@ -10,7 +10,7 @@ Criar um dashboard financeiro do aplicativo fictício “RachaAí”, aplicando 
 
 - Hierarquia Visual
 - Componentização
-- UX/UI
+- UI/UX
 - Responsividade
 - Heurísticas de Nielsen
 - Bootstrap no Blazor
@@ -25,7 +25,7 @@ A hierarquia visual criada no Miro (https://raw.githubusercontent.com/Vyn-Lazaro
 
 # Dificuldade técnica
 
-A minha maior dificuldade ao componenzitar o GrupoCard foi
+A minha maior dificuldade ao componenzitar o GrupoCard foi compreender como usar o Bootstrap.
 
 ---
 
