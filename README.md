@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/Vyn-Lazarotti/ihcux-racha-ai/refs/heads/main/prototipo/RachaA%C3%AD.jpg
-
 # ihcux-racha-ai-blazor
 
 Projeto desenvolvido para a disciplina de Interação Humano Computador e UX utilizando Blazor (.NET).
@@ -21,7 +19,7 @@ Criar um dashboard financeiro do aplicativo fictício “RachaAí”, aplicando 
 
 # Implementação Blazor
 
-A hierarquia visual criada no Miro foi transformada em componentes Blazor utilizando Bootstrap para organização e responsividade.
+A hierarquia visual criada no Miro (https://raw.githubusercontent.com/Vyn-Lazarotti/ihcux-racha-ai/refs/heads/main/prototipo/RachaA%C3%AD.jpg) foi transformada em componentes Blazor utilizando Bootstrap para organização e responsividade.
 
 ---
 
